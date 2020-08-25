@@ -1,7 +1,7 @@
 //+----------------------------------------------------------------------------------+
-//|                                             					   operations.mq5|
-//|                                 	  https://github.com/victor-algo/channel.git |
-//|               			https://www.youtube.com/channel/UCmpooeG7KV1pgHFIkG5mJfA |
+//|                                                                   operations.mq5 |
+//|                                       https://github.com/victor-algo/channel.git |
+//|                         https://www.youtube.com/channel/UCmpooeG7KV1pgHFIkG5mJfA |
 //+----------------------------------------------------------------------------------+
 
 void OnInit(){
